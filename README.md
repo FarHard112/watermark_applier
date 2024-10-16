@@ -54,6 +54,15 @@ python watermark_app.py
 - View real-time preview of changes
 - Click "Process Images" to apply watermark to all images
 
+  
+![image](https://github.com/user-attachments/assets/236d4dcb-858f-439b-804d-a0340627a12b)
+
+
+### Example OUTPUT Image : 
+![image](https://github.com/user-attachments/assets/3872f0fd-70e3-4c1d-b408-af76fc0974c5)
+
+
+
 ## Notes
 
 - Supported image formats: PNG, JPG, JPEG
