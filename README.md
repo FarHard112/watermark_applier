@@ -75,7 +75,7 @@ python watermark_app.py
 Contributions, issues, and feature requests are welcome.
 
 ### TODO:
-Creating web version of this application. 
+Creating web version of this application. (FLASK is more desireable) 
 
 ## License
 
